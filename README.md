@@ -1,2 +1,2 @@
-# orchestrahr
+# OrchestraHR Guides
 Orchestra HR Blog
